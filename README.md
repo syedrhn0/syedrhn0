@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I’m currently working on Machine Learning projects focused on inventory optimization and predictive analytics<br>👯 I’m looking to collaborate on Data Science, Machine Learning, and AI projects<br>🤝 I’m looking for help with MLOps, model deployment, and production-ready ML workflows<br>🌱 I’m currently learning Advanced Machine Learning, Deep Learning, and MLOps<br>💬 Ask me about Python, SQL, Scikit-learn, XGBoost, Streamlit, and data analysis<br>⚡ Fun fact: I transitioned from Civil Engineering to Data Science and enjoy building real-world ML applications that solve business problems.<br>
+🔨 I’m currently working on **Machine Learning projects focused on inventory optimization and predictive analytics**<br>👯 I’m looking to collaborate on **Data Science, Machine Learning, and AI projects**<br>🤝 I’m looking for help with **MLOps, model deployment, and production-ready ML workflows**<br>🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, and MLOps**<br>💬 Ask me about **Python, SQL, Scikit-learn, XGBoost, Streamlit, and data analysis**<br>⚡ Fun fact: **I transitioned from Civil Engineering to Data Science and enjoy building real-world ML applications that solve business problems**.<br>
 
 
 ## 🌐 Socials:
