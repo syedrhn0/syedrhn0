@@ -1,5 +1,45 @@
 # 💫 About Me:
-🔨 I’m currently working on **Machine Learning projects focused on inventory optimization and predictive analytics**<br>👯 I’m looking to collaborate on **Data Science, Machine Learning, and AI projects**<br>🤝 I’m looking for help with **MLOps, model deployment, and production-ready ML workflows**<br>🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, and MLOps**<br>💬 Ask me about **Python, SQL, Scikit-learn, XGBoost, Streamlit, and data analysis**<br>⚡ Fun fact: **I transitioned from Civil Engineering to Data Science and enjoy building real-world ML applications that solve business problems**.<br>
+I'm a **Data Science and Machine Learning enthusiast** focused on building practical solutions that turn raw data into meaningful insights and useful applications.
+
+## 🧠 What I Work With
+
+* 🐍 **Python** — Pandas, NumPy, Scikit-learn
+* 🗄️ **SQL** — MySQL, data querying & analysis
+* 🤖 **Machine Learning** — Regression, Classification, Clustering, Time Series
+* 📊 **Data Analysis & Visualization** — Power BI, Excel, Matplotlib
+* 🚀 **Deployment** — Streamlit
+* 🔧 **Tools** — Jupyter Notebook, VS Code, Git & GitHub
+
+## 🔨 What I Build
+
+* End-to-end Machine Learning projects
+* Predictive analytics solutions
+* Data analysis and visualization dashboards
+* Business-focused data solutions
+* ML applications deployed with Streamlit
+
+## 🎯 Currently Focused On
+
+* Strengthening Machine Learning fundamentals
+* Building practical real-world projects
+* Improving feature engineering and model evaluation
+* Learning better software and project practices
+* Turning data projects into useful applications
+
+## 📂 Featured Projects
+
+🚧 *Projects are continuously being added and improved.*
+
+Check out my repositories to explore my work in **Data Science, Machine Learning, SQL, and Data Analytics**.
+
+---
+
+### 📫 Let's Connect
+
+I'm interested in **Data Science, Machine Learning, Analytics, and AI** opportunities and collaborations.
+
+> **Learn → Build → Analyze → Improve → Repeat.**
+.<br>
 
 
 ## 🌐 Socials:
