@@ -1,44 +1,49 @@
-# 💫 About Me:
-I'm a **Data Science and Machine Learning enthusiast** focused on building practical solutions that turn raw data into meaningful insights and useful applications.
+# 💫 About Me
+
+I'm a **Data Analyst focused on turning raw data into meaningful insights that support better business decisions.**
+
+I work with **SQL, Python, Excel, and Power BI** to clean, analyze, visualize, and interpret data. I also have a background in **Machine Learning**, which helps me approach analytical problems with a broader understanding of predictive modeling and data-driven solutions.
 
 ## 🧠 What I Work With
 
-* 🐍 **Python** — Pandas, NumPy, Scikit-learn
-* 🗄️ **SQL** — MySQL, data querying & analysis
-* 🤖 **Machine Learning** — Regression, Classification, Clustering, Time Series
-* 📊 **Data Analysis & Visualization** — Power BI, Excel, Matplotlib
-* 🚀 **Deployment** — Streamlit
+* 🗄️ **SQL** — MySQL, data querying, joins, subqueries, CTEs, window functions & analysis
+* 🐍 **Python** — Pandas, NumPy, data cleaning, analysis & automation
+* 📊 **Power BI** — Data modeling, DAX, dashboards & interactive visualizations
+* 📈 **Excel** — Data analysis, calculations, reporting & business-focused analysis
+* 📉 **Data Visualization** — Power BI, Matplotlib & exploratory data analysis
+* 🤖 **Machine Learning** — Regression, Classification, Clustering & model evaluation
 * 🔧 **Tools** — Jupyter Notebook, VS Code, Git & GitHub
 
 ## 🔨 What I Build
 
-* End-to-end Machine Learning projects
-* Predictive analytics solutions
-* Data analysis and visualization dashboards
-* Business-focused data solutions
-* ML applications deployed with Streamlit
+* Data analysis projects using SQL and Python
+* Interactive Power BI dashboards
+* Business-focused analytical solutions
+* Data cleaning and exploratory analysis workflows
+* Predictive analytics and Machine Learning projects
+* End-to-end projects that turn raw data into actionable insights
 
 ## 🎯 Currently Focused On
 
-* Strengthening Machine Learning fundamentals
-* Building practical real-world projects
-* Improving feature engineering and model evaluation
-* Learning better software and project practices
-* Turning data projects into useful applications
+* Strengthening SQL and Python for real-world data analysis
+* Building practical Power BI dashboards
+* Improving data cleaning, exploratory analysis and visualization
+* Developing stronger business problem-solving skills
+* Building projects that demonstrate practical analytical thinking
 
 ## 📂 Featured Projects
 
-🚧 *Projects are continuously being added and improved.*
+I'm continuously building and improving projects across **Data Analytics, SQL, Python, Power BI, and Machine Learning**.
 
-Check out my repositories to explore my work in **Data Science, Machine Learning, SQL, and Data Analytics**.
+Check out my repositories to explore my analytical projects, dashboards, datasets, and end-to-end data solutions.
 
 ---
 
 ### 📫 Let's Connect
 
-I'm interested in **Data Science, Machine Learning, Analytics, and AI** opportunities and collaborations.
+I'm interested in **Data Analyst, Business Analytics, and Data-focused opportunities** where I can use data to solve practical business problems.
 
-> **Learn → Build → Analyze → Improve → Repeat.**
+> **Collect → Clean → Analyze → Visualize → Understand → Decide**
 .<br>
 
 
